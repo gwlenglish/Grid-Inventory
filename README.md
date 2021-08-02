@@ -3,11 +3,16 @@
  
  Example_01 scene shows an implementation.
  
- Instructions
+ Instructions:
+ 
  -Open the Example_01 scene. 
+ 
  -Enter Play. 
+ 
  -Click on a white button to generate an Inventory Piece. 
+ 
  -Place the piece on the inventory board.
+ 
  
  Supports swapping and re-placing items on the grid. 
  
