@@ -1,0 +1,4 @@
+<map id="GWLPXL.InventoryGrid.Board" name="GWLPXL.InventoryGrid.Board">
+<area shape="rect" id="node1" title="manager for the inventory board/grid" alt="" coords="5,109,197,136"/>
+<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_board_preview.html" title="helper for preview" alt="" coords="5,5,197,47"/>
+</map>

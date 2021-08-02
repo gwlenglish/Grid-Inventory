@@ -1,0 +1,7 @@
+<map id="GWLPXL.InventoryGrid.Board.PlaceOnBoard" name="GWLPXL.InventoryGrid.Board.PlaceOnBoard">
+<area shape="rect" id="node1" title="place on board at origin, returns board slots occupied if successful and list returns count 0 if not ..." alt="" coords="736,71,932,112"/>
+<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html#a2ec502022c25d405dc496504afc4b478" title="try place draggable piece on board" alt="" coords="489,5,688,47"/>
+<area shape="rect" id="node5" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_board.html#a958dc0cc426f184f17f6b1655766c457" title="check to see if we can swap piece, if so swap it returns count &gt; 0 if successful, count == 0 if not s..." alt="" coords="491,71,687,112"/>
+<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html#a9b8cd27809dbbeb7a1c8aa56efb4fac6" title="try place in grid slot" alt="" coords="236,5,441,47"/>
+<area shape="rect" id="node4" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html#a7c4ad08ad40a7f5fe6fc9d033dd78dd9" title="mouse navigation" alt="" coords="5,5,188,47"/>
+</map>

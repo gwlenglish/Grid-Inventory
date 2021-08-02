@@ -1,0 +1,7 @@
+<map id="GWLPXL.InventoryGrid.EquippedGear_UI.TryPlace" name="GWLPXL.InventoryGrid.EquippedGear_UI.TryPlace">
+<area shape="rect" id="node1" title=" " alt="" coords="5,60,217,101"/>
+<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_equipped_gear.html#a8d85953995fea51e568df895c1a84192" title="will place if nothing in slot, will try to swap if something is in." alt="" coords="265,29,477,70"/>
+<area shape="rect" id="node5" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_equipped_gear.html#a78536430063e0241a63a0d2dd0b89668" title="swaps newpiece with piece already in slot, used for swapping dragged equipment" alt="" coords="525,92,737,133"/>
+<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_equipped_gear.html#aeeb2090e82f6e9fb0bf8658652ae1fef" title="checks if piece has same ID as slot" alt="" coords="785,30,997,72"/>
+<area shape="rect" id="node4" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_equipped_gear.html#ac2828e37d668ba092cef9297606f7b7d" title="place piece in slot, no checks" alt="" coords="525,26,737,68"/>
+</map>

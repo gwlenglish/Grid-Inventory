@@ -1,0 +1,4 @@
+<map id="GWLPXL.InventoryGrid.GridInventory_UI.CarryRemovedPiece" name="GWLPXL.InventoryGrid.GridInventory_UI.CarryRemovedPiece">
+<area shape="rect" id="node1" title="remove draggable piece that is already on the grid" alt="" coords="5,5,219,47"/>
+<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html#a080561d7cc2bf356aad81f7c2ee9d79c" title="clear state" alt="" coords="267,5,449,47"/>
+</map>

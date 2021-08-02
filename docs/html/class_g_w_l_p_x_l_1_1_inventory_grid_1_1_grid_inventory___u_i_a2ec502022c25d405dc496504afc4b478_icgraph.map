@@ -1,0 +1,5 @@
+<map id="GWLPXL.InventoryGrid.GridInventory_UI.TryPlaceOnBoard" name="GWLPXL.InventoryGrid.GridInventory_UI.TryPlaceOnBoard">
+<area shape="rect" id="node1" title="try place draggable piece on board" alt="" coords="489,5,688,47"/>
+<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html#a9b8cd27809dbbeb7a1c8aa56efb4fac6" title="try place in grid slot" alt="" coords="236,5,441,47"/>
+<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html#a7c4ad08ad40a7f5fe6fc9d033dd78dd9" title="mouse navigation" alt="" coords="5,5,188,47"/>
+</map>

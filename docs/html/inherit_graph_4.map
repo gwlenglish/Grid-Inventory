@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,116,105"/>
+<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_equipped_gear___u_i.html" title="example UI class that uses the EquippedGear class and subs to GridInventory_UI" alt="" coords="172,5,384,47"/>
+<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html" title="ui example using Board class to generate the inventory grid/board" alt="" coords="187,71,369,112"/>
+<area shape="rect" id="node4" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_pretend_item.html" title="pretend item, used for the demo scene on buttons to create new pieces to add to inventory" alt="" coords="164,137,392,163"/>
+</map>
