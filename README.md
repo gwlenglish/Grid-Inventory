@@ -1,5 +1,8 @@
 # Grid-Inventory
  grid inventory for C# and Unity
+
+Video example:
+https://youtu.be/SvmOvAgmQ3o
  
  Example_01 scene shows an implementation.
  
@@ -22,4 +25,6 @@
  
  Equipped Gear_UI shows an example of how to use equipped gear with Unity's UI in conjunction with the Board class.
  Doxygen: https://gwlenglish.github.io/Grid-Inventory/
+
+Art comes from https://opengameart.org/
  
