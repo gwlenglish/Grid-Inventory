@@ -14,6 +14,8 @@
  -Place the piece on the inventory board.
  
  
+ 
+ 
  Supports swapping and re-placing items on the grid. 
  
  Grid Inventory_UI shows an example of how to use the Board class to generate a grid using Unity's UI system.
