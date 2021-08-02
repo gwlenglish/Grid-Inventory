@@ -1,4 +1,0 @@
-<map id="GWLPXL.InventoryGrid.EquippedGear.Swap" name="GWLPXL.InventoryGrid.EquippedGear.Swap">
-<area shape="rect" id="node1" title="swaps newpiece with piece already in slot, used for swapping dragged equipment" alt="" coords="5,5,217,47"/>
-<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_equipped_gear.html#aeeb2090e82f6e9fb0bf8658652ae1fef" title="checks if piece has same ID as slot" alt="" coords="265,5,477,47"/>
-</map>

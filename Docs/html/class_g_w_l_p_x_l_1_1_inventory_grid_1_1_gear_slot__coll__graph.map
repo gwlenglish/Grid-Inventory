@@ -1,5 +1,0 @@
-<map id="GWLPXL.InventoryGrid.GearSlot" name="GWLPXL.InventoryGrid.GearSlot">
-<area shape="rect" id="node1" title="defines a gear slot" alt="" coords="5,199,215,225"/>
-<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_inventory_piece.html" title="defines an inventory piece" alt="" coords="5,95,215,136"/>
-<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_pattern.html" title="defines an item&#39;s grid pattern on the board" alt="" coords="10,5,210,32"/>
-</map>

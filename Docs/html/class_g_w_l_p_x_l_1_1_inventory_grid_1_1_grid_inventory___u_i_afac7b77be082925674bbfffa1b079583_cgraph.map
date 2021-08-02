@@ -1,5 +1,0 @@
-<map id="GWLPXL.InventoryGrid.GridInventory_UI.SwappedEquipmentPiece" name="GWLPXL.InventoryGrid.GridInventory_UI.SwappedEquipmentPiece">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,249,47"/>
-<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html#aea3771529202f9f3fe76cfc109e4b100" title="remove draggable piece that is already on the grid" alt="" coords="297,5,511,47"/>
-<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html#a080561d7cc2bf356aad81f7c2ee9d79c" title="clear state" alt="" coords="559,5,741,47"/>
-</map>

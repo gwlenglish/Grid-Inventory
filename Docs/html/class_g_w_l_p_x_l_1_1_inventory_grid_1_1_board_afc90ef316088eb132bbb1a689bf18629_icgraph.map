@@ -1,5 +1,0 @@
-<map id="GWLPXL.InventoryGrid.Board.TryPlace" name="GWLPXL.InventoryGrid.Board.TryPlace">
-<area shape="rect" id="node1" title="used for preview" alt="" coords="475,5,671,47"/>
-<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html#a9cb766c809447fa46126cc4754c23dc3" title="preview stuff could use a cell class that we can enable/disable preview stuff, clean up later" alt="" coords="236,5,427,47"/>
-<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html#a7c4ad08ad40a7f5fe6fc9d033dd78dd9" title="mouse navigation" alt="" coords="5,5,188,47"/>
-</map>

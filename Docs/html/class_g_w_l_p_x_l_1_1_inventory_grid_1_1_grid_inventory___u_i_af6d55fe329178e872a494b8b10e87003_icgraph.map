@@ -1,5 +1,0 @@
-<map id="GWLPXL.InventoryGrid.GridInventory_UI.Placed" name="GWLPXL.InventoryGrid.GridInventory_UI.Placed">
-<area shape="rect" id="node1" title=" " alt="" coords="236,39,419,80"/>
-<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html#a17a06b9a446f2b76aad7f874507f9afd" title="unsub events" alt="" coords="5,5,188,47"/>
-<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html#ac277e599f5c7b514f74a092aa5f7d983" title="sub events" alt="" coords="5,71,188,112"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="GWLPXL.InventoryGrid.PatternHolder" name="GWLPXL.InventoryGrid.PatternHolder">
-<area shape="rect" id="node1" title="holds the pattern class to make scriptables out of them" alt="" coords="57,95,257,136"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,124,32"/>
-<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_pattern.html" title="defines an item&#39;s grid pattern on the board" alt="" coords="149,5,349,32"/>
-</map>
