@@ -1,0 +1,6 @@
+<map id="GWLPXL.InventoryGrid.BoardSlot" name="GWLPXL.InventoryGrid.BoardSlot">
+<area shape="rect" id="node1" title="defines a board/grid slot" alt="" coords="116,199,331,225"/>
+<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_inventory_piece.html" title="defines an inventory piece" alt="" coords="5,95,215,136"/>
+<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_pattern.html" title="defines an item&#39;s grid pattern on the board" alt="" coords="10,5,210,32"/>
+<area shape="rect" id="node4" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_virtual_inventory_cell.html" title="defines an inventory cell/slot" alt="" coords="239,95,434,136"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="GWLPXL.InventoryGrid.GridInventory_UI.MoveDraggable" name="GWLPXL.InventoryGrid.GridInventory_UI.MoveDraggable">
+<area shape="rect" id="node1" title="draggable movement" alt="" coords="236,5,420,47"/>
+<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html#a7c4ad08ad40a7f5fe6fc9d033dd78dd9" title="mouse navigation" alt="" coords="5,5,188,47"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="GWLPXL.InventoryGrid.Pattern.AddRotated" name="GWLPXL.InventoryGrid.Pattern.AddRotated">
+<area shape="rect" id="node1" title=" " alt="" coords="1484,71,1688,112"/>
+<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_pattern.html#af494ff81c08bd16f5fb48a8bd97b0009" title=" " alt="" coords="1232,71,1436,112"/>
+<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_pattern.html#ac03120e0343f6ba94f5054d4dd15c39c" title=" " alt="" coords="980,71,1184,112"/>
+<area shape="rect" id="node4" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_board.html#adea15b0e1713845dd6ac371d781bdf49" title="place on board at origin, returns board slots occupied if successful and list returns count 0 if not ..." alt="" coords="736,12,932,53"/>
+<area shape="rect" id="node8" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_board.html#a958dc0cc426f184f17f6b1655766c457" title="check to see if we can swap piece, if so swap it returns count &gt; 0 if successful, count == 0 if not s..." alt="" coords="491,71,687,112"/>
+<area shape="rect" id="node9" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_board.html#afc90ef316088eb132bbb1a689bf18629" title="used for preview" alt="" coords="736,129,932,171"/>
+<area shape="rect" id="node5" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html#a2ec502022c25d405dc496504afc4b478" title="try place draggable piece on board" alt="" coords="489,5,688,47"/>
+<area shape="rect" id="node6" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html#a9b8cd27809dbbeb7a1c8aa56efb4fac6" title="try place in grid slot" alt="" coords="236,20,441,61"/>
+<area shape="rect" id="node7" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html#a7c4ad08ad40a7f5fe6fc9d033dd78dd9" title="mouse navigation" alt="" coords="5,68,188,109"/>
+<area shape="rect" id="node10" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html#a9cb766c809447fa46126cc4754c23dc3" title="preview stuff could use a cell class that we can enable/disable preview stuff, clean up later" alt="" coords="243,100,434,141"/>
+</map>
