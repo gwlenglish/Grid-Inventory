@@ -1,0 +1,5 @@
+<map id="GWLPXL.InventoryGrid.GridInventory_UI.Start" name="GWLPXL.InventoryGrid.GridInventory_UI.Start">
+<area shape="rect" id="node1" title="creation" alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html#ad370b4a795d0d1ecf16d2a461f6a4919" title=" " alt="" coords="236,5,419,47"/>
+<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_board.html#a8d4562a05b5459409a57a0d91d77513e" title="create the grid, also calls the OnBoardSlotCreated" alt="" coords="467,5,663,47"/>
+</map>

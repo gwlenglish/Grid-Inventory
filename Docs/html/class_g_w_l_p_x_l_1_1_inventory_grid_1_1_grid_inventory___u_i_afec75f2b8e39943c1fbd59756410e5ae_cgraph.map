@@ -1,0 +1,4 @@
+<map id="GWLPXL.InventoryGrid.GridInventory_UI.TryRemoveDraggableFromGrid" name="GWLPXL.InventoryGrid.GridInventory_UI.TryRemoveDraggableFromGrid">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,224,61"/>
+<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_board.html#abf6173170a832f761fd8e514c70b2faf" title="remove piece from board" alt="" coords="272,13,468,54"/>
+</map>

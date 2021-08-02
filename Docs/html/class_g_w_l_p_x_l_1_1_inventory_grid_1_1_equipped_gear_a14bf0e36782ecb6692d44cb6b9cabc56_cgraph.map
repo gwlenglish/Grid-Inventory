@@ -1,0 +1,4 @@
+<map id="GWLPXL.InventoryGrid.EquippedGear.RemoveFromSlot" name="GWLPXL.InventoryGrid.EquippedGear.RemoveFromSlot">
+<area shape="rect" id="node1" title="will remove if piece is present" alt="" coords="5,5,217,47"/>
+<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_equipped_gear.html#a73900220c51990097a6693557c7b4b73" title="remove piece from slot, no checks" alt="" coords="265,5,477,47"/>
+</map>
