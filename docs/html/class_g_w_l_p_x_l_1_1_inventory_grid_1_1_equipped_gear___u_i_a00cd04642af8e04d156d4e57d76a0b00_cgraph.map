@@ -1,5 +1,0 @@
-<map id="GWLPXL.InventoryGrid.EquippedGear_UI.CreateGear" name="GWLPXL.InventoryGrid.EquippedGear_UI.CreateGear">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,217,47"/>
-<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_equipped_gear.html#a64025cfbc221a55dff097280be99bdfa" title="call to initialize the equipment manager" alt="" coords="265,5,477,47"/>
-<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_equipped_gear.html#a59fba99edb59b5498890965f428aaaf5" title="add a new gear slot" alt="" coords="525,5,737,47"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="GWLPXL.InventoryGrid.EquippedGear_UI.TryRemove" name="GWLPXL.InventoryGrid.EquippedGear_UI.TryRemove">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,217,47"/>
-<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_equipped_gear.html#a14bf0e36782ecb6692d44cb6b9cabc56" title="will remove if piece is present" alt="" coords="265,5,477,47"/>
-<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_equipped_gear.html#a73900220c51990097a6693557c7b4b73" title="remove piece from slot, no checks" alt="" coords="525,5,737,47"/>
-</map>

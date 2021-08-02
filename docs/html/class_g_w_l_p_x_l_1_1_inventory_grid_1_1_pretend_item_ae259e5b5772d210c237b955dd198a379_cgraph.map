@@ -1,4 +1,0 @@
-<map id="GWLPXL.InventoryGrid.PretendItem.SetNewPiece" name="GWLPXL.InventoryGrid.PretendItem.SetNewPiece">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,208,47"/>
-<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_inventory_grid_1_1_grid_inventory___u_i.html#a73e89128cee2dd743e3d3baf4df0730b" title="create draggable piece that isn&#39;t already on the grid" alt="" coords="256,5,499,47"/>
-</map>
