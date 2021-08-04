@@ -3,6 +3,9 @@
 
 Video example:
 https://youtu.be/SvmOvAgmQ3o
+
+Playable example:
+https://ventedpennies.itch.io/grid-inventory
  
  Example_01 scene shows an implementation.
  
